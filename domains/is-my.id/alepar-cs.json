@@ -1,0 +1,11 @@
+{
+  "description": "a redirect domain to my personal webiste",
+  "owner": {
+    "username": "alessioparolini2011",
+    "email": "alepar.ap9@gmail.com"
+  },
+  "records": {
+    "REDIRECT" : "my-code-portfolio-ten.vercel.app"
+  },
+  "proxied": true
+}
